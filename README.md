@@ -1,1 +1,4 @@
 # DomainTracker
+
+#### Dependencies:
+* requests
