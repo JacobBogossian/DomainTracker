@@ -1,6 +1,6 @@
 # DomainTracker
 
-A simple widget to track the life of domains based on keyword.
+A simple Python 3 widget to track the life of domains based on keyword.
 
 #### Dependencies:
 * requests
